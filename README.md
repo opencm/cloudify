@@ -1,5 +1,8 @@
 [![Build Status](https://secure.travis-ci.org/CloudifySource/cloudify.png)](http://travis-ci.org/CloudifySource/cloudify)
-Welcome to Cloudify
+
+EDITED!!!!!!!
+
+Welcom
 ======================
 
 The purpose of this README file is to explain how one can easily build fully functional Cloudify version taking source code from GitHub.
